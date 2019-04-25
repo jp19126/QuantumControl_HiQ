@@ -1,4 +1,4 @@
-# Quantum Control on the HiQ platform
+# Quantum Control series based on the HiQ platform
 This repository features various kinds of quantum control problems. Most of the work contribute to LIU Baojie, PhD student in Professor Man-Hong Yung's group, Department of Physics, Southern University of Science and Technology. These codes aims to be run on the HiQ platform by Huawei.
 
 # Contents
